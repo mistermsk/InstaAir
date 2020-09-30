@@ -1,5 +1,6 @@
 main: com.shanebeestudios.ia.InstaAir
 name: InstaAir
 version: '${project.version}'
+api-version: '1.13'
 author: "ShaneBee"
 description: "Automatically regenerate a player's air when not in water."
